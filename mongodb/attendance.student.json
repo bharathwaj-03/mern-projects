@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c36"
+  },
+  "studentId": "20221CSE0297",
+  "name": "Bharathwaj V",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c37"
+  },
+  "studentId": "20221CSE0295",
+  "name": "Shreeansh",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c38"
+  },
+  "studentId": "20221CSE0316",
+  "name": "Harish",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c39"
+  },
+  "studentId": "20221CSE0280",
+  "name": "Amog",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c3a"
+  },
+  "studentId": "20221CSE0327",
+  "name": "Azhar",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c3b"
+  },
+  "studentId": "20221CSE0315",
+  "name": "Syed",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c3c"
+  },
+  "studentId": "20221CSE0294",
+  "name": "Pavan Kumar",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c3d"
+  },
+  "studentId": "20221CSE0333",
+  "name": "Lingesh",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c3e"
+  },
+  "studentId": "20221CSE0284",
+  "name": "Ryan",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "67fd4ae26ec9b642a0048c3f"
+  },
+  "studentId": "20221CSE0223",
+  "name": "Adithyan",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "6813309b45fa5db409ad4e39"
+  },
+  "studentId": "20211CSE0601",
+  "name": "Veeru",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+},
+{
+  "_id": {
+    "$oid": "681330dd45fa5db409ad4e3a"
+  },
+  "studentId": "20221CSE0225",
+  "name": "Vishwa",
+  "department": "CSE General",
+  "year": "3rd",
+  "section": "6CSE10"
+}]

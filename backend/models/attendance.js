@@ -20,7 +20,7 @@ const studentSchema = new mongoose.Schema({
     year: String,
     section: String
 });
-export const Student = mongoose.model("Student", studentSchema,"student"); // Changed from "new mongoose.Schema" to "mongoose.model"
+export const Student = mongoose.model("Student", studentSchema,"student"); 
 
 const staffSchema = new mongoose.Schema({
     staffId: { type: String, unique: true },
@@ -28,7 +28,7 @@ const staffSchema = new mongoose.Schema({
     department: String,
     subject: String
 });
-export const Staff = mongoose.model("Staff", staffSchema); // Changed from "new mongoose.Schema" to "mongoose.model"
+export const Staff = mongoose.model("Staff", staffSchema); 
 const d=new Date();
 const date=d.getDate();
 const timetableSchema = new mongoose.Schema({
@@ -61,7 +61,7 @@ const timetableSchema = new mongoose.Schema({
     
     
 });
-export const TimeTable = mongoose.model("TimeTable", timetableSchema); // Changed from "new mongoose.Schema" to "mongoose.model"
+export const TimeTable = mongoose.model("TimeTable", timetableSchema); 
 
 const attendanceSchema = new mongoose.Schema({
     date: { type: Date, required: true },
@@ -76,7 +76,7 @@ const attendanceSchema = new mongoose.Schema({
      
       
 });
-export const Attendance = mongoose.model("Attendance", attendanceSchema); // Changed name and from "new mongoose.Schema" to "mongoose.model"
+export const Attendance = mongoose.model("Attendance", attendanceSchema); 
 
 
 const HolidaySchema = new mongoose.Schema({
@@ -124,20 +124,5 @@ const AcademicEventSchema = new mongoose.Schema({
 export const AcademicEvent= mongoose.model('AcademicEvent', AcademicEventSchema);
 
 
-// const academicEvents=[];
 
-// const startHoliday = new Date('2025-06-08');
-// const endHoliday = new Date('2025-08-11');
-
-// Push remaining holiday days
-// for (let d = startHoliday; d <= endHoliday; d.setDate(d.getDate() + 1)) {
-//   academicEvents.push({
-//     date: String(new Date(d)),
-//     name: 'Semester Holidays',
-//     description: 'Summer vacation',
-//     eventType: 'other'
-//   });
-// }
-// console.log(academicEvents);
-// console.log(academicEvents.length);
 

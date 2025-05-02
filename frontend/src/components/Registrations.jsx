@@ -13,8 +13,7 @@ function Registrations(props){
                   <h1>Princeton University</h1>
                 </div>
         <div className="parent">
-        {/* onClick={() => props.onSelect("staff") 
-         onClick={() => props.onSelect("student")*/}
+      
 <div className="r1" >
     <Link to={"/staff"} style={{ textDecoration: 'none', color: 'inherit' }}><h1>Staff Login</h1></Link>
 </div>

@@ -1,5 +1,5 @@
 import React from 'react'; 
-import { BrowserRouter, Routes, Route, useNavigate } from "react-router-dom"; // Import useLocation
+import { BrowserRouter, Routes, Route, useNavigate } from "react-router-dom";
 import Registrations from './registrations'; 
 import Student from './Student'; 
 import Staff from "./Staff"; 
@@ -21,7 +21,7 @@ import Meetings from "./Meetings";
 
 
 function AcademicCalendarWrapper() {
-  // Add any necessary state or props
+  
   return <AcademicCalendar />;
 }
 
@@ -39,8 +39,7 @@ function StudentWrapper() {
   
   const handleLoginSuccess = (user) => {
     setUser(user);
-    navigate('/dashboard'); // Pass user data to dashboard
-    // { state: { user } };
+    navigate('/dashboard'); 
   };
   
   return (
@@ -66,8 +65,7 @@ function StaffWrapper() {
   
   const handleLoginSuccess = (user) => {
     setStaff(user);
-    navigate('/staffdashboard'); // Pass user data to dashboard
-    //,{ state: { user } }
+    navigate('/staffdashboard'); 
   };
   
   return (

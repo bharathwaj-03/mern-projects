@@ -64,12 +64,7 @@ function StaffDashboard({onLogout }) {
             <p><strong>Address:</strong> {staffs.address}</p>
             <p><strong>Mobile:</strong> {staffs.mobile}</p>
 
-            {/* {userData.role === 'student' && (
-              <>
-                <p><strong>Student ID:</strong> {userData.studentId}</p>
-                <p><strong>Course:</strong> Btech CSE General</p>
-              </>
-            )} */}
+       
 
             {userData.role === 'staff' && (
               <>

@@ -12,7 +12,7 @@ function AcademicCalendar() {
   const [holidays, setHolidays] = useState([]);
   const [academicEvents, setAcademicEvents] = useState([]);
   
-  // Example holidays data - in a real app, you'd fetch this from an API
+  
   useEffect(() => {
     // This would typically come from your backend
     const sampleHolidays = [

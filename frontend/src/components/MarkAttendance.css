@@ -1,9 +1,7 @@
 .timetable-container{
     display:flex;
     height:100vh;
-    /* align-items: center; */
-    /* background-color: rgb(235, 232, 232); */
-    /* background: #fff4e6; */
+  
     background-color: white;
    
 
@@ -13,16 +11,16 @@
   
 }
 .main-content3{
-    /* display:flex; */
+
    background: #fff4e6;
-   /* background: rgb(250, 244, 244); */
+
     flex-basis:75%;
     gap:10px;
     margin-left:50px;
     margin-right: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
-   /* flex:1; */
+
     padding:30px;
     border-radius: 12px;
     border-radius: 2px solid black;

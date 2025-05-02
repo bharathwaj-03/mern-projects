@@ -1,14 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import StaffSidebar from './StaffSidebar';
-// import axios from "axios";
+
 import "./Meetings.css";
 import { UserContext } from './UserContext';
 
 function Meetings() {
   const navigate = useNavigate();
   const [meetings, setMeetings] = useState([]);
-//   const { user } = useContext(UserContext);
 
   // Sample meetings data - you can edit these later
   useEffect(() => {
@@ -91,7 +90,6 @@ function Meetings() {
     setMeetings(sampleMeetings);
   }, []);
 
-  // Get meeting class based on type and status
   const getMeetingClass = (type, status) => {
     if (status === "completed") {
       return "meeting-completed";

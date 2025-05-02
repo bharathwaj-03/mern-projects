@@ -18,7 +18,7 @@ function Dashboard({onLogout }) {
     }
   }, [user,navigate]);
 
-  // Handle logout
+
   const handleLogout = () => {
    
     if (onLogout) {
@@ -63,12 +63,7 @@ function Dashboard({onLogout }) {
               </>
             )}
 
-            {/* {userData.role === 'staff' && (
-              <>
-                <p><strong>Staff ID:</strong> {userData.staffId || userData._id || 'F12345'}</p>
-                {userData.department && <p><strong>Department:</strong> {userData.department}</p>}
-              </>
-            )} */}
+      
           </div>
         </div>
 

@@ -15,7 +15,7 @@ function MarkAttendance() {
 
 
 
-  // date: new Date('2025-05-01')
+
 
   
  
@@ -52,7 +52,7 @@ function MarkAttendance() {
     setGreenStates(newStates);
   };
 
-  // Helper function to get formatted day name
+  //  function to get formatted day name
   const getCurrentDayName = () => days[currentDate.getDay()];
 
 
@@ -237,8 +237,7 @@ function MarkAttendance() {
               {submitMessage}
             </div>
           )}
-          
-          {/* Date slider with navigation arrows */}
+      
           <div className="date-slider">
             <button 
               className="slider-arrow" 

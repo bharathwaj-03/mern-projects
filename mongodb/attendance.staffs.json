@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf04478"
+  },
+  "staffId": "presi005",
+  "name": "Mr.Jagan",
+  "department": "CSE Dept",
+  "subject": "Optimization Techniques",
+  "address": "#123 ,Basavanagudi,Bangalore",
+  "experience": "18 years",
+  "room": "QB03",
+  "mobile": "+91 9876543210",
+  "qualification": "PHD in Mathematics"
+},
+{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf04479"
+  },
+  "staffId": "presi003",
+  "name": "Ms.Sushmitha",
+  "department": "CSE Dept",
+  "subject": "Front End Full Stack",
+  "address": "#134,Kochi,Kerala",
+  "experience": "3 years",
+  "mobile": "+91 9876543210",
+  "qualification": "MS in Electronics Engineering",
+  "room": "DS02"
+},
+{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf0447a"
+  },
+  "staffId": "presi006",
+  "name": "Ms.Tintu",
+  "department": "CSE Dept",
+  "subject": "Deep Learning",
+  "address": "145,Mallapuram,Kerala",
+  "experience": "6 years",
+  "mobile": "+91 9876543210",
+  "qualification": "MS in AI/ML",
+  "room": "LG03"
+},
+{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf0447b"
+  },
+  "staffId": "presi007",
+  "name": "Ms.Alina",
+  "department": "CSE Dept",
+  "subject": "Python:DSA",
+  "address": "#567,RT Nagar,Bangalore",
+  "experience": "13 years",
+  "mobile": "+91 9876543210",
+  "qualification": "MS in Software Engineering",
+  "room": "LF15"
+},
+{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf0447c"
+  },
+  "staffId": "presi008",
+  "name": "Ms.Shanti",
+  "department": "CSE Dept",
+  "subject": "Compiler Design",
+  "address": "#645,Chelkere,Bangalore",
+  "experience": "18 years",
+  "mobile": "+91 9876543210",
+  "qualification": "PHD in Compiler Design",
+  "room": "LT08"
+},
+{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf0447d"
+  },
+  "staffId": "presi001",
+  "name": "Dr.Srinivas",
+  "department": "CSE Dept",
+  "subject": "Cloud Computing",
+  "address": "#890,Madurai,Tamilnadu",
+  "experience": "20 years",
+  "mobile": "+91 9876543210",
+  "qualification": "PHD in Cloud Computing",
+  "room": "ST03 Professor Cabin"
+},
+{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf0447e"
+  },
+  "staffId": "presi002",
+  "name": "Dr.Naveen",
+  "department": "CSE Dept",
+  "subject": "Java Full Stack",
+  "address": "#990,Rajajinagar,Bangalore",
+  "experience": "15 years",
+  "mobile": "+91 9876543210",
+  "qualification": "MS in Software Engineering and Applications",
+  "room": "LT03"
+},
+{
+  "_id": {
+    "$oid": "68136bb7b9ad797eddf0447f"
+  },
+  "staffId": "presi004",
+  "name": "Ms.Sharon",
+  "department": "CSE Dept",
+  "subject": "Data Visualisation",
+  "address": "#589,KR Puram,Bangalore",
+  "experience": "10 years",
+  "mobile": "+91 9876543210",
+  "qualification": "MS in Computer Science",
+  "room": "LG07"
+}]

@@ -1,0 +1,348 @@
+[{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556358"
+  },
+  "name": "Bharathwaj V",
+  "email": "bharathwaj@gmail.com",
+  "dob": "2003-05-19",
+  "password": "bharathwaj123",
+  "role": "student",
+  "studentId": "20221CSE0297",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556359"
+  },
+  "name": "Shreeansh",
+  "email": "shreeansh@gmail.com",
+  "dob": "2004-04-15",
+  "password": "shreeansh123",
+  "role": "student",
+  "studentId": "20221CSE0295",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb977055635a"
+  },
+  "name": "Harish",
+  "email": "harish@gmail.com",
+  "dob": "2004-01-09",
+  "password": "harish123",
+  "role": "student",
+  "studentId": "20221CSE0316",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb977055635b"
+  },
+  "name": "Amog",
+  "email": "amog@gmail.com",
+  "dob": "2003-02-24",
+  "password": "amog1234",
+  "role": "student",
+  "studentId": "20221CSE0280",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb977055635c"
+  },
+  "name": "Azhar",
+  "email": "azhar@gmail.com",
+  "dob": "2003-10-19",
+  "password": "azhar123",
+  "role": "student",
+  "studentId": "20221CSE0327",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb977055635d"
+  },
+  "name": "Syed",
+  "email": "syed@gmail.com",
+  "dob": "2003-09-09",
+  "password": "syed1234",
+  "role": "student",
+  "studentId": "20221CSE0315",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb977055635e"
+  },
+  "name": "Pavan Kumar",
+  "email": "pavan@gmail.com",
+  "dob": "2003-04-12",
+  "password": "pavan123",
+  "role": "student",
+  "studentId": "20221CSE0294",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb977055635f"
+  },
+  "name": "Lingesh",
+  "email": "lingesh@gmail.com",
+  "dob": "2002-03-14",
+  "password": "lingesh123",
+  "role": "student",
+  "studentId": "20221CSE0333",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556360"
+  },
+  "name": "Ryan",
+  "email": "ryan@gmail.com",
+  "dob": "2002-08-12",
+  "password": "ryan123",
+  "role": "student",
+  "studentId": "20221CSE0284",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556361"
+  },
+  "name": "Adithyan",
+  "email": "adithyan@gmail.com",
+  "dob": "2003-11-19",
+  "password": "adithyan123",
+  "role": "student",
+  "studentId": "20221CSE0223",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556362"
+  },
+  "name": "Dr.Srinivas",
+  "email": "srinivas@gmail.com",
+  "dob": "1980-02-15",
+  "password": "srinivas123",
+  "role": "staff",
+  "staffId": "presi001",
+  "course": "Cloud Computing"
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556363"
+  },
+  "name": "Dr.Naveen",
+  "email": "naveen@gmail.com",
+  "dob": "1985-02-15",
+  "password": "naveen1234",
+  "role": "staff",
+  "staffId": "presi002",
+  "course": "Java Full Stack"
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556365"
+  },
+  "name": "Ms.Sharon",
+  "email": "sharon@gmail.com",
+  "dob": "1990-02-15",
+  "password": "sharon123",
+  "role": "staff",
+  "staffId": "presi004",
+  "course": "Data Visualisation"
+},
+{
+  "_id": {
+    "$oid": "67fd37283f6eeb9770556366"
+  },
+  "name": "Mr.Jagan",
+  "email": "jagan@gmail.com",
+  "dob": "1979-02-15",
+  "password": "jagan123",
+  "role": "staff",
+  "staffId": "presi005",
+  "course": "Optimization Techniques"
+},
+{
+  "_id": {
+    "$oid": "680d7b27390827de6cd69eb2"
+  },
+  "name": "Ms.Sushmitha",
+  "email": "sushmitha@gmail.com",
+  "password": "sushmitha123",
+  "role": "staff",
+  "staffId": "presi003",
+  "course": "Front End Full Stack",
+  "dob": "1979-02-15"
+},
+{
+  "_id": {
+    "$oid": "680d7b27390827de6cd69eb3"
+  },
+  "name": "Ms.Tintu",
+  "email": "tintu@gmail.com",
+  "dob": "1985-02-15",
+  "password": "tintu123",
+  "role": "staff",
+  "staffId": "presi006",
+  "course": "Deep Learning"
+},
+{
+  "_id": {
+    "$oid": "680d7b27390827de6cd69eb4"
+  },
+  "name": "Ms.Alina",
+  "email": "alina@gmail.com",
+  "dob": "1990-02-15",
+  "password": "alina1234",
+  "role": "staff",
+  "staffId": "presi007",
+  "course": "Python:DSA"
+},
+{
+  "_id": {
+    "$oid": "680d7b27390827de6cd69eb5"
+  },
+  "name": "Ms.Shanti",
+  "email": "shanti@gmail.com",
+  "dob": "1979-02-15",
+  "password": "shanti123",
+  "role": "staff",
+  "staffId": "presi008",
+  "course": "Compiler Design"
+},
+{
+  "_id": {
+    "$oid": "6814df2e477d9481d3061b38"
+  },
+  "name": "Vishwa",
+  "email": "vishwa@gmail.com",
+  "dob": "2003-11-19",
+  "password": "vishwa123",
+  "role": "student",
+  "studentId": "20221CSE0555",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6814df56477d9481d3061b39"
+  },
+  "name": "Veeru",
+  "email": "veeru@gmail.com",
+  "dob": "2003-11-19",
+  "password": "veeru123",
+  "role": "student",
+  "studentId": "20211CSE0601",
+  "courses": [
+    "Java Full Stack",
+    "Front End Full Stack",
+    "Deep Learning",
+    "Cloud Computing",
+    "Python:DSA",
+    "Optimization Techniques",
+    "Compiler Design",
+    "Data Visualisation"
+  ]
+}]

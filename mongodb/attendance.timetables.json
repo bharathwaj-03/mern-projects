@@ -1,0 +1,295 @@
+[{
+  "_id": {
+    "$oid": "680d9355bb30e7d1aaf6ecb0"
+  },
+  "date": {
+    "$date": "2025-04-28T00:00:00.000Z"
+  },
+  "day": "Monday",
+  "periods": [
+    {
+      "time": "9:00am-9:50am",
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "staffId": "presi001"
+    },
+    {
+      "time": "9:55am-10:45am",
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "staffId": "presi002"
+    },
+    {
+      "time": "10:45am-10:55am",
+      "staffName": "",
+      "subject": "Break",
+      "staffId": ""
+    },
+    {
+      "time": "10:55am-11:45am",
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "staffId": "presi004"
+    },
+    {
+      "time": "11:55am-12:45pm",
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "staffId": "presi005"
+    },
+    {
+      "time": "12:45pm-1:35pm",
+      "staffName": "",
+      "subject": "Lunch Break",
+      "staffId": ""
+    },
+    {
+      "time": "1:35pm-2:25pm",
+      "staffName": "",
+      "subject": "Free Hour",
+      "staffId": ""
+    },
+    {
+      "time": "2:30pm-3:20pm",
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "staffId": "presi003"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680d9355bb30e7d1aaf6ecb1"
+  },
+  "date": {
+    "$date": "2025-04-29T00:00:00.000Z"
+  },
+  "day": "Tuesday",
+  "periods": [
+    {
+      "time": "9:00am-9:50am",
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "staffId": "presi006"
+    },
+    {
+      "time": "9:55am-10:45am",
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "staffId": "presi007"
+    },
+    {
+      "time": "10:45am-10:55am",
+      "staffName": "",
+      "subject": "Break",
+      "staffId": ""
+    },
+    {
+      "time": "10:55am-11:45am",
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "staffId": "presi008"
+    },
+    {
+      "time": "11:55am-12:45pm",
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "staffId": "presi001"
+    },
+    {
+      "time": "12:45pm-1:35pm",
+      "staffName": "",
+      "subject": "Lunch Break",
+      "staffId": ""
+    },
+    {
+      "time": "1:35pm-2:25pm",
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "staffId": "presi002"
+    },
+    {
+      "time": "2:30pm-3:20pm",
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "staffId": "presi004"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680d9355bb30e7d1aaf6ecb2"
+  },
+  "date": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "day": "Wednesday",
+  "periods": [
+    {
+      "time": "9:00am-9:50am",
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "staffId": "presi005"
+    },
+    {
+      "time": "9:55am-10:45am",
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "staffId": "presi003"
+    },
+    {
+      "time": "10:45am-10:55am",
+      "staffName": "",
+      "subject": "Break",
+      "staffId": ""
+    },
+    {
+      "time": "10:55am-11:45am",
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "staffId": "presi006"
+    },
+    {
+      "time": "11:55am-12:45pm",
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "staffId": "presi007"
+    },
+    {
+      "time": "12:45pm-1:35pm",
+      "staffName": "",
+      "subject": "Lunch Break",
+      "staffId": ""
+    },
+    {
+      "time": "1:35pm-2:25pm",
+      "staffName": "",
+      "subject": "Free Hour",
+      "staffId": ""
+    },
+    {
+      "time": "2:30pm-3:20pm",
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "staffId": "presi008"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680d9355bb30e7d1aaf6ecb3"
+  },
+  "date": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "day": "Thursday",
+  "periods": [
+    {
+      "time": "9:00am-9:50am",
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "staffId": "presi001"
+    },
+    {
+      "time": "9:55am-10:45am",
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "staffId": "presi002"
+    },
+    {
+      "time": "10:45am-10:55am",
+      "staffName": "",
+      "subject": "Break",
+      "staffId": ""
+    },
+    {
+      "time": "10:55am-11:45am",
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "staffId": "presi004"
+    },
+    {
+      "time": "11:55am-12:45pm",
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "staffId": "presi005"
+    },
+    {
+      "time": "12:45pm-1:35pm",
+      "staffName": "",
+      "subject": "Lunch Break",
+      "staffId": ""
+    },
+    {
+      "time": "1:35pm-2:25pm",
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "staffId": "presi003"
+    },
+    {
+      "time": "2:30pm-3:20pm",
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "staffId": "presi006"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "680d9355bb30e7d1aaf6ecb4"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "day": "Friday",
+  "periods": [
+    {
+      "time": "9:00am-9:50am",
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "staffId": "presi007"
+    },
+    {
+      "time": "9:55am-10:45am",
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "staffId": "presi008"
+    },
+    {
+      "time": "10:45am-10:55am",
+      "staffName": "",
+      "subject": "Break",
+      "staffId": ""
+    },
+    {
+      "time": "10:55am-11:45am",
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "staffId": "presi001"
+    },
+    {
+      "time": "11:55am-12:45pm",
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "staffId": "presi002"
+    },
+    {
+      "time": "12:45pm-1:35pm",
+      "staffName": "",
+      "subject": "Lunch Break",
+      "staffId": ""
+    },
+    {
+      "time": "1:35pm-2:25pm",
+      "staffName": "",
+      "subject": "Free Hour",
+      "staffId": ""
+    },
+    {
+      "time": "2:30pm-3:20pm",
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "staffId": "presi004"
+    }
+  ]
+}]

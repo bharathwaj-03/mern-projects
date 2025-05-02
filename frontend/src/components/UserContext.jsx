@@ -19,7 +19,7 @@ export function UserProvider({ children }) {
       });
 
       const [users, setUsers] = useState(() => {
-        // On first load, try to get user from localStorage
+       
         const storedUser = localStorage.getItem('users');
         return storedUser ? JSON.parse(storedUser) : null;
       });

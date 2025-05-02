@@ -30,7 +30,7 @@ function Student(props) {
         if (result.data.user.role !== "student") {
           alert("Enter student details");
           console.log("Staff details not allowed");
-          return; // Prevent further action
+          return; 
         }
   
         // Pass user data to parent component
@@ -40,7 +40,7 @@ function Student(props) {
           // navigate('/dashboard');
         }
       } else {
-        // setError(result.data.message || "Invalid credentials");
+       
         alert("Invalid username or password")
       }
     })

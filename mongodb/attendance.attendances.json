@@ -1,0 +1,1041 @@
+[{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6f6"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Bharathwaj V",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "absent",
+        "absent",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6f7"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Shreeansh",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "absent",
+        "absent",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6f8"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Harish",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6f9"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Amog",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "absent",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6fa"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Azhar",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "absent",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6fb"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Syed",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "absent",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6fc"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Pavan Kumar",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6fd"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Lingesh",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "absent",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "absent",
+        "present",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6fe"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Adithyan",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "absent",
+        "absent",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "absent",
+        "present",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d6ff"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Veeru",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "absent",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68138a737f539dcc9060d700"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Vishwa",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "absent",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+},
+{
+  "_id": {
+    "$oid": "68139d105a727ececd389973"
+  },
+  "date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "studentName": "Ryan",
+  "records": [
+    {
+      "staffName": "Mr.Jagan",
+      "subject": "Optimization Techniques",
+      "status": [
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Sushmitha",
+      "subject": "Front End Full Stack",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Tintu",
+      "subject": "Deep Learning",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Ms.Alina",
+      "subject": "Python:DSA",
+      "status": [
+        "present",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Shanti",
+      "subject": "Compiler Design",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "absent",
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Srinivas",
+      "subject": "Cloud Computing",
+      "status": [
+        "present"
+      ]
+    },
+    {
+      "staffName": "Dr.Naveen",
+      "subject": "Java Full Stack",
+      "status": [
+        "present",
+        "absent",
+        "present",
+        "absent"
+      ]
+    },
+    {
+      "staffName": "Ms.Sharon",
+      "subject": "Data Visualisation",
+      "status": [
+        "present",
+        "present",
+        "present",
+        "present"
+      ]
+    }
+  ],
+  "dept": "CSE"
+}]

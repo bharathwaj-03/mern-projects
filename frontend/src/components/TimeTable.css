@@ -1,9 +1,7 @@
 .timetable-container{
     display:flex;
     height:100vh;
-    /* align-items: center; */
-    /* background-color: rgb(235, 232, 232); */
-    /* background: #fff4e6; */
+
     background-color: white;
    
 
@@ -13,7 +11,7 @@
   
 }
 .main-content2{
-    /* display:flex; */
+
    background: #fff4e6;
     flex-basis:75%;
     gap:10px;
@@ -111,7 +109,7 @@
   }
 
 
-  /* Add these styles to your TimeTable.css file */
+ 
 
 .attendance-section {
   margin-top: 20px;

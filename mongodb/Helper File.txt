@@ -1,0 +1,6 @@
+Create a attendance db in ur mongodb compass and import the provided json files(collections) in ur attendance db ,please dont change the collections name.
+Backend code is written using the same collections name.
+
+For student and staff login look into the users collection for login credentials based on users role(field).
+Thats it ur done cd in frontend and cd into backend in two separate terminals ,run "npm run dev" in frontend and "nodemon index.js" in backend.
+Good luck 😊🤙. Enjoy this beginner friendly Attendance Management System.

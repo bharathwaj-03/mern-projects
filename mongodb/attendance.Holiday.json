@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94f8"
+  },
+  "date": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "name": "New Year's Day",
+  "description": "Celebration of the New Year"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94f9"
+  },
+  "date": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  },
+  "name": "Makar Sankranti",
+  "description": "Harvest festival celebrated across India"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94fa"
+  },
+  "date": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  },
+  "name": "Republic Day",
+  "description": "Celebrates the Constitution of India"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94fb"
+  },
+  "date": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "name": "Holi",
+  "description": "Festival of colors and love"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94fc"
+  },
+  "date": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "name": "Ram Navami",
+  "description": "Birthday of Lord Rama"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94fd"
+  },
+  "date": {
+    "$date": "2025-04-14T00:00:00.000Z"
+  },
+  "name": "Ambedkar Jayanti",
+  "description": "Birth anniversary of Dr. B.R. Ambedkar"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94fe"
+  },
+  "date": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "name": "Labour Day",
+  "description": "International Workers' Day"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e94ff"
+  },
+  "date": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "name": "Independence Day",
+  "description": "Independence from British rule"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e9500"
+  },
+  "date": {
+    "$date": "2025-08-30T00:00:00.000Z"
+  },
+  "name": "Ganesh Chaturthi",
+  "description": "Festival celebrating Lord Ganesha's birth"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e9501"
+  },
+  "date": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "name": "Gandhi Jayanti",
+  "description": "Birthday of Mahatma Gandhi"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e9502"
+  },
+  "date": {
+    "$date": "2025-10-20T00:00:00.000Z"
+  },
+  "name": "Diwali",
+  "description": "Festival of Lights"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e9503"
+  },
+  "date": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "name": "Bhai Dooj",
+  "description": "Celebrating brother-sister bond"
+},
+{
+  "_id": {
+    "$oid": "680e22c9421d7322cf0e9504"
+  },
+  "date": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "name": "Christmas Day",
+  "description": "Birth of Jesus Christ"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a371"
+  },
+  "date": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "name": "New Year's Day",
+  "description": "Celebration of the New Year"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a372"
+  },
+  "date": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  },
+  "name": "Makar Sankranti",
+  "description": "Harvest festival celebrated across India"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a373"
+  },
+  "date": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  },
+  "name": "Republic Day",
+  "description": "Celebrates the Constitution of India"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a374"
+  },
+  "date": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "name": "Holi",
+  "description": "Festival of colors and love"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a375"
+  },
+  "date": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "name": "Ram Navami",
+  "description": "Birthday of Lord Rama"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a376"
+  },
+  "date": {
+    "$date": "2025-04-14T00:00:00.000Z"
+  },
+  "name": "Ambedkar Jayanti",
+  "description": "Birth anniversary of Dr. B.R. Ambedkar"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a377"
+  },
+  "date": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "name": "Labour Day",
+  "description": "International Workers' Day"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a378"
+  },
+  "date": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "name": "Independence Day",
+  "description": "Independence from British rule"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a379"
+  },
+  "date": {
+    "$date": "2025-08-30T00:00:00.000Z"
+  },
+  "name": "Ganesh Chaturthi",
+  "description": "Festival celebrating Lord Ganesha's birth"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a37a"
+  },
+  "date": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "name": "Gandhi Jayanti",
+  "description": "Birthday of Mahatma Gandhi"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a37b"
+  },
+  "date": {
+    "$date": "2025-10-20T00:00:00.000Z"
+  },
+  "name": "Diwali",
+  "description": "Festival of Lights"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a37c"
+  },
+  "date": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "name": "Bhai Dooj",
+  "description": "Celebrating brother-sister bond"
+},
+{
+  "_id": {
+    "$oid": "680e232772bf1a8892a0a37d"
+  },
+  "date": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "name": "Christmas Day",
+  "description": "Birth of Jesus Christ"
+}]
