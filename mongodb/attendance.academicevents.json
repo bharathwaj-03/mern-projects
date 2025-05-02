@@ -1,0 +1,1859 @@
+[{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07d7"
+  },
+  "date": {
+    "$date": "2025-05-12T00:00:00.000Z"
+  },
+  "name": "Lab Exams",
+  "color": "#fdcb6e",
+  "description": "Practical lab examinations",
+  "eventType": "labexams",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07d8"
+  },
+  "date": {
+    "$date": "2025-05-13T00:00:00.000Z"
+  },
+  "name": "Lab Exams",
+  "color": "#fdcb6e",
+  "description": "Practical lab examinations",
+  "eventType": "labexams",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07d9"
+  },
+  "date": {
+    "$date": "2025-05-14T00:00:00.000Z"
+  },
+  "name": "Lab Exams",
+  "color": "#fdcb6e",
+  "description": "Practical lab examinations",
+  "eventType": "labexams",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07da"
+  },
+  "date": {
+    "$date": "2025-05-15T00:00:00.000Z"
+  },
+  "name": "Lab Exams",
+  "color": "#fdcb6e",
+  "description": "Practical lab examinations",
+  "eventType": "labexams",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07db"
+  },
+  "date": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "name": "Lab Exams",
+  "color": "#fdcb6e",
+  "description": "Practical lab examinations",
+  "eventType": "labexams",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07dc"
+  },
+  "date": {
+    "$date": "2025-05-20T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07dd"
+  },
+  "date": {
+    "$date": "2025-05-21T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07de"
+  },
+  "date": {
+    "$date": "2025-05-22T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07df"
+  },
+  "date": {
+    "$date": "2025-05-23T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e0"
+  },
+  "date": {
+    "$date": "2025-05-24T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e1"
+  },
+  "date": {
+    "$date": "2025-05-25T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e2"
+  },
+  "date": {
+    "$date": "2025-05-26T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e3"
+  },
+  "date": {
+    "$date": "2025-05-27T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e4"
+  },
+  "date": {
+    "$date": "2025-05-28T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e5"
+  },
+  "date": {
+    "$date": "2025-05-29T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e6"
+  },
+  "date": {
+    "$date": "2025-05-30T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e7"
+  },
+  "date": {
+    "$date": "2025-05-31T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e8"
+  },
+  "date": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07e9"
+  },
+  "date": {
+    "$date": "2025-06-02T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07ea"
+  },
+  "date": {
+    "$date": "2025-06-03T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07eb"
+  },
+  "date": {
+    "$date": "2025-06-04T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07ec"
+  },
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07ed"
+  },
+  "date": {
+    "$date": "2025-06-06T00:00:00.000Z"
+  },
+  "name": "Semester Exams",
+  "color": "#fdcb6e",
+  "description": "End semester exams",
+  "eventType": "exam",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07ee"
+  },
+  "date": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07ef"
+  },
+  "date": {
+    "$date": "2025-04-21T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f0"
+  },
+  "date": {
+    "$date": "2025-04-22T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f1"
+  },
+  "date": {
+    "$date": "2025-04-23T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f2"
+  },
+  "date": {
+    "$date": "2025-04-24T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f3"
+  },
+  "date": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f4"
+  },
+  "date": {
+    "$date": "2025-04-26T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f5"
+  },
+  "date": {
+    "$date": "2025-04-27T00:00:00.000Z"
+  },
+  "name": "Euphoria Fest",
+  "color": "#fdcb6e",
+  "description": "Annual cultural fest",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f6"
+  },
+  "date": {
+    "$date": "2025-06-06T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f7"
+  },
+  "date": {
+    "$date": "2025-06-07T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f8"
+  },
+  "date": {
+    "$date": "2025-06-08T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07f9"
+  },
+  "date": {
+    "$date": "2025-06-09T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07fa"
+  },
+  "date": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07fb"
+  },
+  "date": {
+    "$date": "2025-06-11T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07fc"
+  },
+  "date": {
+    "$date": "2025-06-12T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07fd"
+  },
+  "date": {
+    "$date": "2025-06-13T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07fe"
+  },
+  "date": {
+    "$date": "2025-06-14T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c07ff"
+  },
+  "date": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0800"
+  },
+  "date": {
+    "$date": "2025-06-16T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0801"
+  },
+  "date": {
+    "$date": "2025-06-17T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0802"
+  },
+  "date": {
+    "$date": "2025-06-18T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0803"
+  },
+  "date": {
+    "$date": "2025-06-19T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0804"
+  },
+  "date": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0805"
+  },
+  "date": {
+    "$date": "2025-06-21T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0806"
+  },
+  "date": {
+    "$date": "2025-06-22T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0807"
+  },
+  "date": {
+    "$date": "2025-06-23T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0808"
+  },
+  "date": {
+    "$date": "2025-06-24T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0809"
+  },
+  "date": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c080a"
+  },
+  "date": {
+    "$date": "2025-06-26T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c080b"
+  },
+  "date": {
+    "$date": "2025-06-27T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c080c"
+  },
+  "date": {
+    "$date": "2025-06-28T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c080d"
+  },
+  "date": {
+    "$date": "2025-06-29T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c080e"
+  },
+  "date": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c080f"
+  },
+  "date": {
+    "$date": "2025-07-01T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0810"
+  },
+  "date": {
+    "$date": "2025-07-02T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0811"
+  },
+  "date": {
+    "$date": "2025-07-03T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0812"
+  },
+  "date": {
+    "$date": "2025-07-04T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0813"
+  },
+  "date": {
+    "$date": "2025-07-05T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0814"
+  },
+  "date": {
+    "$date": "2025-07-06T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0815"
+  },
+  "date": {
+    "$date": "2025-07-07T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0816"
+  },
+  "date": {
+    "$date": "2025-07-08T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0817"
+  },
+  "date": {
+    "$date": "2025-07-09T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0818"
+  },
+  "date": {
+    "$date": "2025-07-10T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0819"
+  },
+  "date": {
+    "$date": "2025-07-11T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c081a"
+  },
+  "date": {
+    "$date": "2025-07-12T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c081b"
+  },
+  "date": {
+    "$date": "2025-07-13T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c081c"
+  },
+  "date": {
+    "$date": "2025-07-14T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c081d"
+  },
+  "date": {
+    "$date": "2025-07-15T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c081e"
+  },
+  "date": {
+    "$date": "2025-07-16T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c081f"
+  },
+  "date": {
+    "$date": "2025-07-17T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0820"
+  },
+  "date": {
+    "$date": "2025-07-18T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0821"
+  },
+  "date": {
+    "$date": "2025-07-19T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0822"
+  },
+  "date": {
+    "$date": "2025-07-20T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0823"
+  },
+  "date": {
+    "$date": "2025-07-21T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0824"
+  },
+  "date": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0825"
+  },
+  "date": {
+    "$date": "2025-07-23T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0826"
+  },
+  "date": {
+    "$date": "2025-07-24T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0827"
+  },
+  "date": {
+    "$date": "2025-07-25T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0828"
+  },
+  "date": {
+    "$date": "2025-07-26T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0829"
+  },
+  "date": {
+    "$date": "2025-07-27T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c082a"
+  },
+  "date": {
+    "$date": "2025-07-28T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c082b"
+  },
+  "date": {
+    "$date": "2025-07-29T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c082c"
+  },
+  "date": {
+    "$date": "2025-07-30T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c082d"
+  },
+  "date": {
+    "$date": "2025-07-31T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c082e"
+  },
+  "date": {
+    "$date": "2025-08-01T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c082f"
+  },
+  "date": {
+    "$date": "2025-08-02T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0830"
+  },
+  "date": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0831"
+  },
+  "date": {
+    "$date": "2025-08-04T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0832"
+  },
+  "date": {
+    "$date": "2025-08-05T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0833"
+  },
+  "date": {
+    "$date": "2025-08-06T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0834"
+  },
+  "date": {
+    "$date": "2025-08-07T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0835"
+  },
+  "date": {
+    "$date": "2025-08-08T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0836"
+  },
+  "date": {
+    "$date": "2025-08-09T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0837"
+  },
+  "date": {
+    "$date": "2025-08-10T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e25e8c64add8e6f2c0838"
+  },
+  "date": {
+    "$date": "2025-08-11T00:00:00.000Z"
+  },
+  "name": "Semester Holidays",
+  "color": "#fdcb6e",
+  "description": "Summer vacation",
+  "eventType": "other",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad785"
+  },
+  "date": "Sun Jun 08 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad786"
+  },
+  "date": "Mon Jun 09 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad787"
+  },
+  "date": "Tue Jun 10 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad788"
+  },
+  "date": "Wed Jun 11 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad789"
+  },
+  "date": "Thu Jun 12 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad78a"
+  },
+  "date": "Fri Jun 13 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad78b"
+  },
+  "date": "Sat Jun 14 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad78c"
+  },
+  "date": "Sun Jun 15 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad78d"
+  },
+  "date": "Mon Jun 16 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad78e"
+  },
+  "date": "Tue Jun 17 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad78f"
+  },
+  "date": "Wed Jun 18 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad790"
+  },
+  "date": "Thu Jun 19 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad791"
+  },
+  "date": "Fri Jun 20 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad792"
+  },
+  "date": "Sat Jun 21 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad793"
+  },
+  "date": "Sun Jun 22 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad794"
+  },
+  "date": "Mon Jun 23 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad795"
+  },
+  "date": "Tue Jun 24 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad796"
+  },
+  "date": "Wed Jun 25 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad797"
+  },
+  "date": "Thu Jun 26 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad798"
+  },
+  "date": "Fri Jun 27 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad799"
+  },
+  "date": "Sat Jun 28 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad79a"
+  },
+  "date": "Sun Jun 29 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad79b"
+  },
+  "date": "Mon Jun 30 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad79c"
+  },
+  "date": "Tue Jul 01 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad79d"
+  },
+  "date": "Wed Jul 02 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad79e"
+  },
+  "date": "Thu Jul 03 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad79f"
+  },
+  "date": "Fri Jul 04 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a0"
+  },
+  "date": "Sat Jul 05 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a1"
+  },
+  "date": "Sun Jul 06 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a2"
+  },
+  "date": "Mon Jul 07 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a3"
+  },
+  "date": "Tue Jul 08 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a4"
+  },
+  "date": "Wed Jul 09 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a5"
+  },
+  "date": "Thu Jul 10 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a6"
+  },
+  "date": "Fri Jul 11 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a7"
+  },
+  "date": "Sat Jul 12 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a8"
+  },
+  "date": "Sun Jul 13 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7a9"
+  },
+  "date": "Mon Jul 14 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7aa"
+  },
+  "date": "Tue Jul 15 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7ab"
+  },
+  "date": "Wed Jul 16 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7ac"
+  },
+  "date": "Thu Jul 17 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7ad"
+  },
+  "date": "Fri Jul 18 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7ae"
+  },
+  "date": "Sat Jul 19 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7af"
+  },
+  "date": "Sun Jul 20 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b0"
+  },
+  "date": "Mon Jul 21 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b1"
+  },
+  "date": "Tue Jul 22 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b2"
+  },
+  "date": "Wed Jul 23 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b3"
+  },
+  "date": "Thu Jul 24 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b4"
+  },
+  "date": "Fri Jul 25 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b5"
+  },
+  "date": "Sat Jul 26 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b6"
+  },
+  "date": "Sun Jul 27 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b7"
+  },
+  "date": "Mon Jul 28 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b8"
+  },
+  "date": "Tue Jul 29 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7b9"
+  },
+  "date": "Wed Jul 30 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7ba"
+  },
+  "date": "Thu Jul 31 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7bb"
+  },
+  "date": "Fri Aug 01 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7bc"
+  },
+  "date": "Sat Aug 02 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7bd"
+  },
+  "date": "Sun Aug 03 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7be"
+  },
+  "date": "Mon Aug 04 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7bf"
+  },
+  "date": "Tue Aug 05 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7c0"
+  },
+  "date": "Wed Aug 06 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7c1"
+  },
+  "date": "Thu Aug 07 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7c2"
+  },
+  "date": "Fri Aug 08 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7c3"
+  },
+  "date": "Sat Aug 09 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7c4"
+  },
+  "date": "Sun Aug 10 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+},
+{
+  "_id": {
+    "$oid": "680e2aec74f25375fd1ad7c5"
+  },
+  "date": "Mon Aug 11 2025 05:30:00 GMT+0530 (India Standard Time)",
+  "name": "Semester Holidays",
+  "description": "Summer vacation",
+  "eventType": "other"
+}]

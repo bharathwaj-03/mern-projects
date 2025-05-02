@@ -16,7 +16,7 @@ function Staff(props){
   
        const handleLogin = (e) => {
         e.preventDefault();
-        console.log('Logging in with:', username, password);
+      
         setLoading(true);
         setError('');
       
@@ -135,4 +135,3 @@ function Staff(props){
 }
 export default Staff;
 
-{/* <button className="orange-btn" onClick={handleRegister}>Register</button> */}
