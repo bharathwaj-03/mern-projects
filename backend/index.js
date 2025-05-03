@@ -18,51 +18,45 @@ const port = 3000;
 app.use(cors());
 app.use(express.json());
 
+app.use(express.urlencoded({ extended: true }));
+
 // Connect to MongoDB
 mongoose.connect("mongodb://localhost:27017/attendance")
   .then(() => console.log("Connected to MongoDB"))
   .catch(err => console.error("MongoDB connection error:", err));
-
-
-
-
-  app.get('/academic-calendar', async (req, res) => {
-    try {
-      const { startDate, endDate } = req.query;
-      
-      // Validate date parameters
-      if (!startDate || !endDate) {
-        return res.status(400).json({ 
-          success: false, 
-          message: 'Start and end dates are required' 
-        });
-      }
-      
-      // Query holidays between the date range
-      const holidays = await Holiday.find({
-        date: { $gte: new Date(startDate), $lte: new Date(endDate) }
-      }).sort({ date: 1 });
-      
-      // Query academic events between the date range
-      const academicEvents = await AcademicEvent.find({
-        date: { $gte: new Date(startDate), $lte: new Date(endDate) }
-      }).sort({ date: 1 });
-      
-      res.json({
-        success: true,
-        holidays,
-        academicEvents
-      });
-    } catch (error) {
-      console.error("Error fetching academic calendar:", error);
-      res.status(500).json({ 
-        success: false, 
-        message: "Server error" 
-      });
-    }
+  app.use((req, res, next) => {
+    res.header('Content-Type', 'application/json');
+    next();
   });
+  
 
-
+// Add this to your server.js or routes file
+app.get("/academic-calendar", async(req, res) => {
+  try {
+    // Always set content type header
+    res.setHeader('Content-Type', 'application/json');
+    
+    const events = await AcademicEvent.find({});
+    const holidays = await Holiday.find({});
+    
+    // Don't check if events/holidays are null - find() returns an empty array
+    console.log(`Found ${events.length} events and ${holidays.length} holidays`);
+    
+    return res.json({
+      success: true,
+      events: events,
+      holidays: holidays
+    });
+  } catch (error) {
+    console.error("Academic events error:", error);
+    res.setHeader('Content-Type', 'application/json');
+    return res.status(500).json({ 
+      success: false, 
+      message: "Server error",
+      error: error.message
+    });
+  }
+});
 
 
 

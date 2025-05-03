@@ -3,4 +3,11 @@ Backend code is written using the same collections name.
 
 For student and staff login look into the users collection for login credentials based on users role(field).
 Thats it ur done cd in frontend and cd into backend in two separate terminals ,run "npm run dev" in frontend and "nodemon index.js" in backend.
+
+backend libraries :
+npm i express cors mongoose pdfkit
+
+frontend libraries:
+npm i react@latest
+npm i react-dom@latest
 Good luck 😊🤙. Enjoy this beginner friendly Attendance Management System.

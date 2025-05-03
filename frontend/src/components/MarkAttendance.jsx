@@ -28,6 +28,7 @@ function MarkAttendance() {
   const newDate=`${today.getFullYear()}-0${today.getMonth()+1}-0${today.getDate()}`;
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
   const todayDate = today.toLocaleDateString('en-US', options);
+  const todayday=days[today.getDay()];
 
   
   
@@ -165,9 +166,14 @@ function MarkAttendance() {
   const handleSubmitAttendance = async () => {
 
     if(todayDate!==checkDate){
+
       console.log("if: today: ",todayDate);
       console.log("if: check",checkDate);
       alert(`Cannot submit attendance for ${checkDate} !!`);
+    }
+    else if(todayday==="Saturday" || todayday==="Sunday"){
+      console.log(todayday);
+      alert(`Cannot submit attendance for: ${todayday} no classes`);
     }
     else if(todayDate===checkDate){
       console.log("else: today: ",todayDate);

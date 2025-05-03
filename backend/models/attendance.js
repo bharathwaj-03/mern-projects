@@ -97,7 +97,7 @@ const HolidaySchema = new mongoose.Schema({
 
 export const Holiday = mongoose.model('Holiday', HolidaySchema);
 
-// models/AcademicEvent.js
+
 
 
 const AcademicEventSchema = new mongoose.Schema({

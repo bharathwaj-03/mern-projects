@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './AcademicCalendar.css';
 import Sidebar from './Sidebar';
+import axios from "axios";
 import { UserContext } from './UserContext';
 import { useContext } from 'react';
 
@@ -13,27 +14,82 @@ function AcademicCalendar() {
   const [academicEvents, setAcademicEvents] = useState([]);
   
   
-  useEffect(() => {
-    // This would typically come from your backend
-    const sampleHolidays = [
-      { date: '2025-05-01', name: 'Labor Day', color: '#ff7675' },
-      { date: '2025-05-15', name: 'Founder\'s Day', color: '#74b9ff' },
-      { date: '2025-05-25', name: 'Memorial Day', color: '#ff7675' },
-      { date: '2025-06-04', name: 'Independence Day', color: '#ff7675' },
-      { date: '2025-06-19', name: 'Juneteenth', color: '#ff7675' },
-    ];
+ 
+
+ useEffect(() => {
+  loadEvents();
+}, []);
+
+async function loadEvents() {
+  try {
+    console.log("Fetching academic calendar data...");
     
-    const sampleEvents = [
-      { date: '2025-05-05', name: 'Midterm Week Begins', color: '#fdcb6e' },
-      { date: '2025-05-12', name: 'Registration Opens', color: '#55efc4' },
-      { date: '2025-05-20', name: 'Final Exams Begin', color: '#e17055' },
-      { date: '2025-06-01', name: 'Summer Term Begins', color: '#a29bfe' },
-      { date: '2025-06-10', name: 'Faculty Conference', color: '#74b9ff' },
-    ];
+    const result = await axios.get("http://localhost:3000/academic-calendar");
+    console.log("API Response received:", result.data);
     
-    setHolidays(sampleHolidays);
-    setAcademicEvents(sampleEvents);
-  }, []);
+    if (result.data && result.data.success) {
+      console.log("Academic events fetched successfully");
+      
+      // Map holidays from backend to the format your calendar expects
+      const formattedHolidays = result.data.holidays.map(holiday => ({
+        date: formatDate(new Date(holiday.date)), // Make sure the date is in YYYY-MM-DD format
+        name: holiday.name,
+        color: holiday.color || '#ff7675' // Use holiday color or default to red
+      }));
+      
+      // Map events from backend to the format your calendar expects
+      const formattedEvents = result.data.events.map(event => ({
+        date: formatDate(new Date(event.date)), // Make sure the date is in YYYY-MM-DD format
+        name: event.name,
+        color: event.color || '#fdcb6e' // Use event color or default to yellow
+      }));
+      
+      console.log("Formatted holidays:", formattedHolidays);
+      console.log("Formatted events:", formattedEvents);
+      
+      // Update state with the properly formatted data
+      setHolidays(formattedHolidays);
+      setAcademicEvents(formattedEvents);
+    } else {
+      console.log("Couldn't fetch academic events:", result.data.message);
+      
+      // Keep the sample data as fallback if API fails
+      loadSampleData();
+    }
+  } catch (error) {
+    console.error("Error loading events:", error);
+    
+    // Fall back to sample data if API call fails
+    loadSampleData();
+  }
+}
+
+// Add a separate function to load sample data
+function loadSampleData() {
+  console.log("Loading sample calendar data");
+  
+  const sampleHolidays = [
+    { date: '2025-05-01', name: 'Labor Day', color: '#ff7675' },
+    { date: '2025-05-15', name: 'Founder\'s Day', color: '#74b9ff' },
+    { date: '2025-05-25', name: 'Memorial Day', color: '#ff7675' },
+    { date: '2025-06-04', name: 'Independence Day', color: '#ff7675' },
+    { date: '2025-06-19', name: 'Juneteenth', color: '#ff7675' },
+  ];
+  
+  const sampleEvents = [
+    { date: '2025-05-05', name: 'Midterm Week Begins', color: '#fdcb6e' },
+    { date: '2025-05-12', name: 'Registration Opens', color: '#55efc4' },
+    { date: '2025-05-20', name: 'Final Exams Begin', color: '#e17055' },
+    { date: '2025-06-01', name: 'Summer Term Begins', color: '#a29bfe' },
+    { date: '2025-06-10', name: 'Faculty Conference', color: '#74b9ff' },
+  ];
+  
+  setHolidays(sampleHolidays);
+  setAcademicEvents(sampleEvents);
+}
+
+// Update your useEffect to only call loadEvents
+
   
   // Functions to navigate between months
   const prevMonth = () => {
