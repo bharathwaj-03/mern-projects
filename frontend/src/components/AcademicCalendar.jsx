@@ -142,7 +142,6 @@ function loadSampleData() {
     // Last day of the month
     const lastDay = new Date(year, month + 1, 0);
     
-    // Day of week for the first day (0 = Sunday, 6 = Saturday)
     const firstDayOfWeek = firstDay.getDay();
     
     // Total days in the month
