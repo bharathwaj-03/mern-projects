@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './AcademicCalendar.css';
-import Sidebar from './Sidebar';
+import StaffSidebar from './StaffSidebar';
 import axios from "axios";
 import { UserContext } from './UserContext';
 import { useContext } from 'react';
@@ -188,7 +188,7 @@ function loadSampleData() {
   return (
     <div className="dashboard-container">
       <div className="dash-cont">
-      <Sidebar onLogout={handleLogout} />
+      <StaffSidebar onLogout={handleLogout} />
       </div>
   
       <div className="main-content">
